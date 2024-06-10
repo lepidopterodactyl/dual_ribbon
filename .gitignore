@@ -7,3 +7,7 @@ fp-info-cache
 ~dual_ribbon.kicad_pcb.lck
 
 ~dual_ribbon.kicad_sch.lck
+
+*.lck
+
+_autosave-dual_ribbon.kicad_pcb
