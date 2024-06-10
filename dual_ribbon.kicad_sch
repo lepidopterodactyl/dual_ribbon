@@ -10574,6 +10574,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 412.75 22.86)
+		(size 35.56 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb704467-5461-47ad-82b2-43225702f776")
+		(property "Sheetname" "Delayed Modulation"
+			(at 412.75 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mod.kicad_sch"
+			(at 412.75 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dual_ribbon"
+				(path "/e71b1ffe-cd24-465b-817f-392629163705"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

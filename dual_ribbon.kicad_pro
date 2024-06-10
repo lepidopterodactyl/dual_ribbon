@@ -465,7 +465,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/nolan.greig/Documents/flerb/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -576,6 +576,10 @@
     [
       "e71b1ffe-cd24-465b-817f-392629163705",
       "Root"
+    ],
+    [
+      "eb704467-5461-47ad-82b2-43225702f776",
+      "Delayed Modulation"
     ]
   ],
   "text_variables": {}
