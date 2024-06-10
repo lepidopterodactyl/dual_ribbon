@@ -4716,7 +4716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 130.175 66.04 0)
 			(effects
 				(font
@@ -4792,7 +4792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 67.056 115.824 90)
 			(effects
 				(font
@@ -4860,7 +4860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 96.52 132.08 0)
 			(effects
 				(font
@@ -4945,7 +4945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 148.844 98.044 90)
 			(effects
 				(font
@@ -5012,7 +5012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 203.454 66.294 90)
 			(effects
 				(font
@@ -5079,7 +5079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 106.68 106.3752 0)
 			(effects
 				(font
@@ -5278,7 +5278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 203.454 86.614 90)
 			(effects
 				(font
@@ -5481,7 +5481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 149.86 91.44 0)
 			(effects
 				(font
@@ -5566,7 +5566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 148.844 77.724 90)
 			(effects
 				(font
@@ -6050,7 +6050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 118.364 112.014 90)
 			(effects
 				(font
@@ -6120,7 +6120,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 54.61 158.75 0)
 			(effects
 				(font
@@ -6276,7 +6276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 101.854 106.934 90)
 			(effects
 				(font
@@ -6550,7 +6550,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 129.794 122.936 90)
 			(effects
 				(font
@@ -6617,7 +6617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 149.86 71.12 0)
 			(effects
 				(font
@@ -6704,7 +6704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 122.174 122.936 90)
 			(effects
 				(font
@@ -6771,7 +6771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 192.024 76.454 90)
 			(effects
 				(font
@@ -6904,7 +6904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 111.76 88.9 0)
 			(effects
 				(font
@@ -6992,7 +6992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 36.83 158.75 0)
 			(effects
 				(font
@@ -7285,7 +7285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 65.024 103.886 90)
 			(effects
 				(font
@@ -7425,7 +7425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 90.17 59.69 0)
 			(effects
 				(font
@@ -7589,7 +7589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 92.71 107.95 0)
 			(effects
 				(font
@@ -7674,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 141.986 82.804 90)
 			(effects
 				(font
@@ -7744,7 +7744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 58.166 25.654 90)
 			(effects
 				(font
@@ -8013,7 +8013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 81.28 113.03 0)
 			(effects
 				(font
@@ -8041,28 +8041,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "73bd5b4a-63ee-4325-b938-34e7220e58c3")
+			(uuid "73bd5b4a-63ee-4325-b938-34e7220e58c4")
 		)
 		(pin "8"
-			(uuid "a208dc93-543e-4c05-9d47-1ae2ed46fc90")
+			(uuid "a208dc93-543e-4c05-9d47-1ae2ed46fc91")
 		)
 		(pin "3"
-			(uuid "49ec91d5-b504-4882-b452-f90718978fa7")
+			(uuid "49ec91d5-b504-4882-b452-f90718978fa8")
 		)
 		(pin "1"
-			(uuid "bddef789-f69a-453b-aba7-88b554e00a9e")
+			(uuid "bddef789-f69a-453b-aba7-88b554e00a9f")
 		)
 		(pin "6"
-			(uuid "902fddd7-2f87-407b-8194-96622511523b")
+			(uuid "902fddd7-2f87-407b-8194-96622511523c")
 		)
 		(pin "5"
-			(uuid "f61b5e0e-e498-4bec-8616-be27f4afd2cf")
+			(uuid "f61b5e0e-e498-4bec-8616-be27f4afd2d0")
 		)
 		(pin "4"
-			(uuid "13eda0df-b257-4d8a-be0c-34e0f17fedc9")
+			(uuid "13eda0df-b257-4d8a-be0c-34e0f17fedca")
 		)
 		(pin "7"
-			(uuid "ac54e594-e1ef-4d21-a01c-b6b1d257a622")
+			(uuid "ac54e594-e1ef-4d21-a01c-b6b1d257a623")
 		)
 		(instances
 			(project "dual_ribbon"
@@ -8099,7 +8099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 118.364 117.856 90)
 			(effects
 				(font
@@ -8372,7 +8372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 95.504 90.424 90)
 			(effects
 				(font
@@ -8439,7 +8439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 110.744 95.504 90)
 			(effects
 				(font
@@ -8709,7 +8709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 130.175 86.36 0)
 			(effects
 				(font
@@ -8782,7 +8782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 141.986 103.124 90)
 			(effects
 				(font
@@ -8849,7 +8849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 95.504 70.104 90)
 			(effects
 				(font
@@ -9130,7 +9130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 111.76 68.58 0)
 			(effects
 				(font
@@ -9158,28 +9158,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "af859436-07c9-4e27-afec-fab761762306")
+			(uuid "af859436-07c9-4e27-afec-fab761762307")
 		)
 		(pin "4"
-			(uuid "20f7a286-f66e-4dbb-89bc-fdb3372f856c")
+			(uuid "20f7a286-f66e-4dbb-89bc-fdb3372f856d")
 		)
 		(pin "7"
-			(uuid "1131ed31-48fe-4bf6-bfb4-13ab6cdef6d9")
+			(uuid "1131ed31-48fe-4bf6-bfb4-13ab6cdef6da")
 		)
 		(pin "8"
-			(uuid "c1c9c0e0-da77-4603-ab03-da7b00ae912c")
+			(uuid "c1c9c0e0-da77-4603-ab03-da7b00ae912d")
 		)
 		(pin "3"
-			(uuid "1ff69ab3-9750-4cfe-b581-ad06df1559fc")
+			(uuid "1ff69ab3-9750-4cfe-b581-ad06df1559fd")
 		)
 		(pin "1"
-			(uuid "99e05c92-6d49-448a-a2e8-42ad3ae40fc4")
+			(uuid "99e05c92-6d49-448a-a2e8-42ad3ae40fc5")
 		)
 		(pin "5"
-			(uuid "446d43b6-ed8e-4b72-a9c6-8a38955cf8d4")
+			(uuid "446d43b6-ed8e-4b72-a9c6-8a38955cf8d5")
 		)
 		(pin "6"
-			(uuid "94ae662c-7b59-4553-9d6a-b4e4ebcddeb4")
+			(uuid "94ae662c-7b59-4553-9d6a-b4e4ebcddeb5")
 		)
 		(instances
 			(project "dual_ribbon"
@@ -9216,7 +9216,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 110.49 132.08 0)
 			(effects
 				(font
@@ -9367,7 +9367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 176.784 95.504 90)
 			(effects
 				(font
@@ -9435,7 +9435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 110.744 61.976 90)
 			(effects
 				(font
@@ -9568,7 +9568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 192.024 81.534 90)
 			(effects
 				(font
@@ -9638,7 +9638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 36.576 66.294 90)
 			(effects
 				(font
@@ -9708,7 +9708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 106.426 137.414 90)
 			(effects
 				(font
@@ -9921,7 +9921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 177.8 88.9 0)
 			(effects
 				(font
@@ -10007,7 +10007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 204.47 80.01 0)
 			(effects
 				(font
@@ -10157,7 +10157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 165.354 90.424 90)
 			(effects
 				(font
@@ -10358,7 +10358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 50.8 158.75 0)
 			(effects
 				(font
@@ -10386,28 +10386,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "73bd5b4a-63ee-4325-b938-34e7220e58c3")
+			(uuid "73bd5b4a-63ee-4325-b938-34e7220e58c5")
 		)
 		(pin "8"
-			(uuid "a208dc93-543e-4c05-9d47-1ae2ed46fc90")
+			(uuid "a208dc93-543e-4c05-9d47-1ae2ed46fc92")
 		)
 		(pin "3"
-			(uuid "49ec91d5-b504-4882-b452-f90718978fa7")
+			(uuid "49ec91d5-b504-4882-b452-f90718978fa9")
 		)
 		(pin "1"
-			(uuid "bddef789-f69a-453b-aba7-88b554e00a9e")
+			(uuid "bddef789-f69a-453b-aba7-88b554e00aa0")
 		)
 		(pin "6"
-			(uuid "902fddd7-2f87-407b-8194-96622511523b")
+			(uuid "902fddd7-2f87-407b-8194-96622511523d")
 		)
 		(pin "5"
-			(uuid "f61b5e0e-e498-4bec-8616-be27f4afd2cf")
+			(uuid "f61b5e0e-e498-4bec-8616-be27f4afd2d1")
 		)
 		(pin "4"
-			(uuid "13eda0df-b257-4d8a-be0c-34e0f17fedc9")
+			(uuid "13eda0df-b257-4d8a-be0c-34e0f17fedcb")
 		)
 		(pin "7"
-			(uuid "ac54e594-e1ef-4d21-a01c-b6b1d257a622")
+			(uuid "ac54e594-e1ef-4d21-a01c-b6b1d257a624")
 		)
 		(instances
 			(project "dual_ribbon"
@@ -10444,7 +10444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 114.3 51.1048 0)
 			(effects
 				(font
@@ -10514,7 +10514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 44.45 158.75 0)
 			(effects
 				(font
@@ -10542,28 +10542,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "af859436-07c9-4e27-afec-fab761762306")
+			(uuid "af859436-07c9-4e27-afec-fab761762308")
 		)
 		(pin "4"
-			(uuid "20f7a286-f66e-4dbb-89bc-fdb3372f856c")
+			(uuid "20f7a286-f66e-4dbb-89bc-fdb3372f856e")
 		)
 		(pin "7"
-			(uuid "1131ed31-48fe-4bf6-bfb4-13ab6cdef6d9")
+			(uuid "1131ed31-48fe-4bf6-bfb4-13ab6cdef6db")
 		)
 		(pin "8"
-			(uuid "c1c9c0e0-da77-4603-ab03-da7b00ae912c")
+			(uuid "c1c9c0e0-da77-4603-ab03-da7b00ae912e")
 		)
 		(pin "3"
-			(uuid "1ff69ab3-9750-4cfe-b581-ad06df1559fc")
+			(uuid "1ff69ab3-9750-4cfe-b581-ad06df1559fe")
 		)
 		(pin "1"
-			(uuid "99e05c92-6d49-448a-a2e8-42ad3ae40fc4")
+			(uuid "99e05c92-6d49-448a-a2e8-42ad3ae40fc6")
 		)
 		(pin "5"
-			(uuid "446d43b6-ed8e-4b72-a9c6-8a38955cf8d4")
+			(uuid "446d43b6-ed8e-4b72-a9c6-8a38955cf8d6")
 		)
 		(pin "6"
-			(uuid "94ae662c-7b59-4553-9d6a-b4e4ebcddeb4")
+			(uuid "94ae662c-7b59-4553-9d6a-b4e4ebcddeb6")
 		)
 		(instances
 			(project "dual_ribbon"
