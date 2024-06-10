@@ -3,3 +3,7 @@ dual_ribbon_backups/
 dual_ribbon-backups/
 
 fp-info-cache
+
+~dual_ribbon.kicad_pcb.lck
+
+~dual_ribbon.kicad_sch.lck
