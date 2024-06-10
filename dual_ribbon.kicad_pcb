@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/nolan.greig/Documents/flerb/")
 		)
 	)
 	(net 0 "")
@@ -21875,7 +21875,7 @@
 	)
 	(gr_rect
 		(start 110.75 38.5)
-		(end 211.25 139.5)
+		(end 210.75 138.5)
 		(stroke
 			(width 0.05)
 			(type default)
