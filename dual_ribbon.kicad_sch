@@ -2937,6 +2937,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 121.92) (xy 105.41 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "012a49f0-bb53-4b25-baf2-8260e0682eef")
+	)
+	(wire
+		(pts
 			(xy 195.58 77.47) (xy 196.85 77.47)
 		)
 		(stroke
@@ -4267,6 +4277,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 121.92) (xy 105.41 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd2eca14-f227-476f-96c2-dbf5a8a27af0")
+	)
+	(wire
+		(pts
 			(xy 134.62 88.9) (xy 142.24 88.9)
 		)
 		(stroke
@@ -4624,6 +4644,28 @@
 			(type default)
 		)
 		(uuid "ffc6108c-8627-40ff-814e-4f497e543fb3")
+	)
+	(global_label "GATE"
+		(shape input)
+		(at 106.68 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b354d587-f22e-49d4-87e8-dad97d6dbef0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.1404 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -5768,7 +5810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02_Socket"
+		(property "Value" "DIFF OUT"
 			(at 236.22 73.6599 0)
 			(effects
 				(font
@@ -5908,7 +5950,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02_Socket"
+		(property "Value" "LOW OUT"
 			(at 199.39 102.8699 0)
 			(effects
 				(font
@@ -6337,7 +6379,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02_Socket"
+		(property "Value" "HIGH OUT"
 			(at 181.61 64.7699 0)
 			(effects
 				(font
@@ -8296,7 +8338,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02_Socket"
+		(property "Value" "GATE OUT"
 			(at 124.46 140.9699 0)
 			(effects
 				(font
